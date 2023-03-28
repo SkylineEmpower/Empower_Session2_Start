@@ -44,6 +44,3 @@ jobs:
           version: 1.0.1
           # The build number of a workflow run. Only required for a development run. Required for stages Upload and All if no version was provided instead.
           build-number: ${{ github.run_number }}
-          artifact-id: # optional
-          # The build number of a workflow run. Only required for a development run. Required for stages Upload and All if no version was provided instead.
-    build-number: # optional
